@@ -8,6 +8,8 @@ public static void main (String[] args) {
 	 System.setProperty("webdriver.chrome.driver","E:\\cucumber practice project\\Cucumber-for-paractice\\Drivers\\chromedriver.exe");
    WebDriver   driver=new ChromeDriver();
    System.out.println("hi");
+   System.out.println("hi1");
+
 
 }
 }
